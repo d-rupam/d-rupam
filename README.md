@@ -48,7 +48,7 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student & r
 > *But then came the NTA—what an absolute crew!* <br>
 > *(Who needs a paper leak when a cancellation will do?)* <br>
 > *They scrapped '26, threw the dates in a blender,* <br>
-> *And expected the droppers to humbly surrender.* <br>
+> *And expected the students to humbly surrender.* <br>
 > <br>
 > *While they whispered of "Re-NEET" to stall the suspense,* <br>
 > *I looked at the chaos and chose common sense.* <br>
