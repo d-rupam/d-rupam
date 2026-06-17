@@ -45,7 +45,7 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student at 
 > *So I took a hard drop, locked myself in a room,* <br>
 > *Ready to study and conquer the gloom.* <br>
 > <br>
-> *But then the exam was completely derailed,* <br>
+> *But then the '26 exam was completely derailed,* <br>
 > *The timeline collapsed and the schedules failed.* <br>
 > *They mixed up the dates like a chemical spill,* <br>
 > *And expected the students to swallow the pill.* <br>
