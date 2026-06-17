@@ -38,6 +38,27 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student & r
 > *But it taught me the ruthless logic I now code with!*
 
 ---
+> [!CAUTION]
+> **🚨 The NTA Plot Twist: Dodging the Re-NEET Trap** <br>
+> *In '25 I chased the stethoscope dream,* <br>
+> *But NEET and Board exams were a brutal regime.* <br>
+> *So I took a hard drop, locked myself in a room,* <br>
+> *Ready to conquer the medical doom.* <br>
+> <br>
+> *But then came the NTA—what an absolute crew!* <br>
+> *(Who needs a paper leak when a cancellation will do?)* <br>
+> *They scrapped '26, threw the dates in a blender,* <br>
+> *And expected the droppers to humbly surrender.* <br>
+> <br>
+> *While they whispered of "Re-NEET" to stall the suspense,* <br>
+> *I looked at the chaos and chose common sense.* <br>
+> *Before they could trap me with one more new date,* <br>
+> *I logged into WBCAP and locked down my fate!* <br>
+> <br>
+> *You keep the Re-NEETs and the endless debate,* <br>
+> *I'm building the systems you can't regulate!*
+
+---
 
 ### 🔬 The Wet-Lab & Academic Core <sub>*(Where the Journey Begins)*</sub>
 
