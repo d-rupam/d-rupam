@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧬 The Bio-Digital Alchemist 💻</h1>
+  <h1>🧬 The Organism Learning to Code 💻</h1>
   <h3><i>Rupam Das</i></h3>
   <p>
     <code>Microbiology Student & Researcher</code> | <code>Systems Architect</code> | <code>Data Sovereign</code>
