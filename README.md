@@ -25,8 +25,8 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student at 
 > *From an 8/35 in eleventh-grade Chem,* <br>
 > *I rebuilt my logic from the root to the stem.* <br>
 > *I finished at 66%, then rewrote the whole node,* <br>
-> *To graduate with 85% on the CBSE PCMB road.* <br>
-> <br>
+> *To output an 85% on the CBSE PCMB road.* <br>
+>
 > *Biology hit 90 (30/30 lab, absolute breeze),* <br>
 > *English at 94, handled with ease.* <br>
 > *Chem hit 81, Physics 77 (practicals maxed out without a doubt),* <br>
