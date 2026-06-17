@@ -39,10 +39,20 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology researcher 
 
 ---
 
-### 🔬 The Wet-Lab <sub>*(What I Execute)*</sub>
-Biology isn't just theory; it’s the ultimate legacy code.
-* 🧫 **Microbiology:** Microbial Culturing, Antimicrobial Resistance Assays, Spectrophotometry.
-* 🧬 **Genetics:** DNA Propagation, <kbd>R² metrics</kbd>, and understanding the elegant mathematics behind biological life.
+### 🔬 The Wet-Lab & Academic Core <sub>*(Where the Journey Begins)*</sub>
+
+> *I minor in Zoo, and I study the Chem,* <br>
+> *But computational logic? My heart is with them.* <br>
+> *Though my major is Bio, and pipettes are cool,* <br>
+> *I look at a cell and I see a new tool.*
+
+<br>
+
+Biology isn't just theory; I view it as the ultimate legacy code. As an incoming first-year student, I am building my scientific foundation from the ground up:
+
+* 🧫 **Microbiology (Major):** Gearing up to dive into Microbial Culturing, Antimicrobial Resistance Assays, and the mechanics of the unseen world.
+* 🦁 **Zoology & Chemistry (Minors):** Building a deep understanding of animal physiology and the chemical reactions that govern life.
+* 💻 **Computer Science (The Multidisciplinary Heart):** My degree may say Biology, but my mind runs on computational logic. I am approaching my entire wet-lab curriculum strictly through a tech-driven lens, aiming to become the bridge between physical science and software architecture.
 
 ### 🌐 The Server Room <sub>*(Self-Taught Infrastructure)*</sub>
 I believe in absolute **Data Sovereignty**. Why rent a digital house when you can build the entire city infrastructure?
