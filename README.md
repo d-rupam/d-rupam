@@ -100,12 +100,16 @@ Bridging the gap between the petri dish and the terminal, I focus on:
   <a href="https://youtube.com/@RupamInSilico" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Visual_Logbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <img src="https://img.shields.io/badge/Arattai-Community_Terminal-38B249?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai" />
-  <img src="https://img.shields.io/badge/Zoho_Mail-Enterprise_Routing-E1242A?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
+  <a href="https://aratt.ai/@rupaminsilico" target="_blank">
+    <img src="https://img.shields.io/badge/Arattai-Community_Terminal-00A884?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai" />
+  </a>
+  <a href="mailto:rupame@zohomail.in">
+    <img src="https://img.shields.io/badge/Zoho_Mail-Enterprise_Routing-1E62DC?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
+  </a>
 </p>
 
-* ✉️ **Enterprise & Academic:** `rupame@zohomail.in` *(Official routing for recruiters, university faculty, and B2B connections).*
-* 💬 **Open-Source Community:** `@rupaminsilico` on **Arattai** *(Peer-to-peer debugging, WBSU notes, and grassroot discussions).*
+* ✉️ **Enterprise & Academic:** [`rupame@zohomail.in`](mailto:rupame@zohomail.in) *(Official routing for recruiters, university faculty, and B2B connections).*
+* 💬 **Open-Source Community:** [`@rupaminsilico`](https://aratt.ai/@rupaminsilico) on **Arattai** *(Peer-to-peer debugging, WBSU notes, and grassroot discussions).*
 * 📺 **The Wet-Lab Feed:** **[@RupamInSilico](https://youtube.com/@RupamInSilico)** on YouTube *(Raw benchwork footage and architectural proof-of-work).*
 
 ---
