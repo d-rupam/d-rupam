@@ -108,9 +108,9 @@ Bridging the gap between the petri dish and the terminal, I focus on:
   </a>
 </p>
 
-* ✉️ **Enterprise & Academic:** [`rupame@zohomail.in`](mailto:rupame@zohomail.in) *(Official routing for recruiters, university faculty, and B2B connections).*
-* 💬 **Open-Source Community:** [`@rupaminsilico`](https://aratt.ai/@rupaminsilico) on **Arattai** *(Peer-to-peer debugging, WBSU notes, and grassroot discussions).*
-* 📺 **The Wet-Lab Feed:** **[@RupamInSilico](https://youtube.com/@RupamInSilico)** on YouTube *(Raw benchwork footage and architectural proof-of-work).*
+* ✉️ **Enterprise & Academic:** **[rupame@zohomail.in](mailto:rupame@zohomail.in)** *(Official routing for recruiters, university faculty, and B2B connections).*
+* 💬 **Open-Source Community:** **[@rupaminsilico](https://aratt.ai/@rupaminsilico)** on **Arattai** *(Peer-to-peer debugging, WBSU notes, and grassroot discussions).*
+* 📺 **The Wet-Lab Feed:** **[@RupamInSilico](https://youtube.com/@RupamInSilico)** on **YouTube** *(Raw benchwork footage and architectural proof-of-work).*
 
 ---
 
