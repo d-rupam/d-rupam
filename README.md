@@ -38,6 +38,7 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student at 
 > *But it taught me the ruthless logic I now code with!*
 
 ---
+
 > [!CAUTION]
 > **🚨 The NTA Plot Twist: Dodging the Re-NEET Trap** <br>
 > *In '25 I chased the stethoscope dream,* <br>
@@ -57,6 +58,7 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student at 
 > <br>
 > *You can keep the delays and the endless debate,* <br>
 > *I've got genomes to sequence and code to create!*
+
 ---
 
 ### 🔬 The Wet-Lab & Academic Core <sub>*(Where the Journey Begins)*</sub>
@@ -72,39 +74,18 @@ Biology isn't just theory; I view it as the ultimate legacy code. As an incoming
 
 * 🧫 **Microbiology (Major):** Gearing up to dive into Microbial Culturing, Antimicrobial Resistance Assays, and the mechanics of the unseen world.
 * 🦁 **Zoology & Chemistry (Minors):** Building a deep understanding of animal physiology and the chemical reactions that govern life.
-* 💻 **Computer Science (The Multidisciplinary Heart):** My degree may say Biology, but my mind runs on computational logic. I am approaching my entire wet-lab curriculum strictly through a tech-driven lens, aiming to become the bridge between physical science and software architecture.
+* 💻 **The Multidisciplinary Heart:** My degree may say Biology, but my mind runs on computational logic. I approach my entire wet-lab curriculum strictly through a tech-driven lens, aiming to become the bridge between physical science and software architecture.
 
 ---
 
-### 🌐 The Server Room <sub>*(Self-Taught Infrastructure)*</sub>
-I believe in absolute **Data Sovereignty**. Why rent a digital house when you can build the entire city infrastructure?
-* 🌍 **Hosting Mastery:** Navigating the entire spectrum—Shared, VPS, Cloud, and Dedicated hosting environments.
-* 🎛️ **Control Panels:** Wrangling <kbd>cPanel</kbd> and <kbd>Mpanel</kbd>.
-* 🛡️ **Security & Routing:** <kbd>Cloudflare WAF</kbd>, **Zoho** enterprise infrastructure, IP Masking, custom Nameservers, and locking down cloud storage.
+### 🌐 The Server Room & Code Cauldron <sub>*(Self-Taught Infrastructure)*</sub>
+I believe in absolute **Data Sovereignty**. Why rent a digital house when you can build the entire city infrastructure? My digital footprint is self-hosted, secured, and privately routed.
 
-### 🏗️ The Web Canvas
-* 🎨 **CMS & Design:** WordPress, Elementor, Blogger.
-* 🚀 **Deployment:** Deploying and configuring raw PHP scripts (like *AdLinkFly*).
-* 📝 **Markup:** A touch of HTML to keep the front-end cooperating.
-
-### 💻 The Code Cauldron <sub>*(Currently Learning & Forging)*</sub>
-Bridging the gap between the petri dish and the terminal.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-web.svg" alt="Zoho" height="28" />
-  
-</p>
-
-* **C++:** Writing algorithms because standard loops are too slow for massive biological datasets.
-* **Python:** Exploring Data/ML to predict what my cultures will do before they do it.
-* **R:** Turning raw biological data into beautiful statistical visualizations.
-* **Bash:** Taming Linux server environments.
+Bridging the gap between the petri dish and the terminal, I focus on:
+* **Compiled Algorithms:** Writing low-level logic for tasks where standard processing is too slow for massive biological datasets.
+* **Data & Machine Learning Scripting:** Exploring predictive models to anticipate microbial behavior before cultures are even plated.
+* **Statistical Computing:** Turning raw biological metrics into clean, interactive visualizations.
+* **Network & Server Navigation:** Taming back-end environments, custom routing architectures, and securing my own data vaults.
 
 ---
 
