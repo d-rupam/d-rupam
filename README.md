@@ -7,16 +7,22 @@
 </div>
 
 > [!NOTE]
-> *Roses are red, violets are blue,* <br>
-> *I culture bacteria, and configure DNS too.* <br>
-> *While the world is asleep, counting up sheep,* <br>
-> *I’m deploying a server and compiling in C.*
+> *Code in the console, cells in the flask,* <br>
+> *Automating the lab is my midnight task.* <br>
+> *When the city logs off and the screens go dark,* <br>
+> *I’m deploying a server and leaving my mark.*
 
 <br>
 
 Welcome to my digital laboratory. I am an undergraduate Microbiology researcher at **Dum Dum Motijheel College (WBSU)** with a rather unorthodox double life. By day, I am a lover of mathematics and biology, dealing with pipettes, microscopes, and microbial populations. By night, I am a 100% self-taught systems architect and computational explorer.
 
 I didn't wait for a formal course to teach me how the internet works—I broke things, fixed them, and built them from scratch. If it involves a wet-lab protocol or a command-line interface, I am probably experimenting with it.
+
+---
+
+> [!TIP]
+> **The Growth Algorithm: My Origin Story** <br>
+> Success isn't a straight line; it is a compiled trajectory. In Class 11 at **KV Dum Dum**, I hit a wall and scored an **8/35 (Fail) in my 1st Periodic Test in Chemistry**. Instead of giving up, I treated my brain like a system that needed debugging. I rebuilt my entire learning framework from scratch. By my **12th CBSE (PCMB)** board exams, I scored an **81/100 in Chemistry**, pushing my overall academic metric from a **66% in 11th to an 85% in 12th**. I don't just memorize systems—I reverse-engineer my own flaws, optimize the variables, and scale up.
 
 ---
 
@@ -30,6 +36,7 @@ I believe in absolute **Data Sovereignty**. Why rent a digital house when you ca
 * 🌍 **Hosting Mastery:** Navigating the entire spectrum—Shared, VPS, Cloud, and Dedicated hosting environments.
 * 🎛️ **Control Panels:** Wrangling <kbd>cPanel</kbd> and <kbd>Mpanel</kbd>.
 * 🛡️ **Security & Routing:** <kbd>Cloudflare WAF</kbd>, IP Masking, custom Nameservers, and locking down cloud storage.
+* 🔐 **Enterprise Identity:** Secure mail routing and zero-trust authentication protocols powered by **Zoho** and OneAuth.
 
 ### 🏗️ The Web Canvas
 * 🎨 **CMS & Design:** WordPress, Elementor, Blogger.
