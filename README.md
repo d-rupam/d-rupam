@@ -1,46 +1,60 @@
-# 🧬 The Bio-Digital Alchemist | Rupam Das 💻
+<h1 align="center">🧬 The Bio-Digital Alchemist | Rupam Das 💻</h1>
 
-*Roses are red, violets are blue,*
-*I culture bacteria, and configure DNS too.*
-*While the world is asleep, counting up sheep,*
-*I’m deploying a server and compiling in C.*
+<p align="center">
+  <i>Roses are red, violets are blue,<br>
+  I culture bacteria, and configure DNS too.<br>
+  While the world is asleep, counting up sheep,<br>
+  I’m deploying a server and compiling in C.</i>
+</p>
 
-Welcome to my digital laboratory. I am an undergraduate Microbiology researcher at Dum Dum Motijheel College (WBSU) with a rather unorthodox double life. By day, I am a lover of Mathematics and Biology, dealing with pipettes, microscopes, and microbial populations. By night, I am a 100% self-taught systems architect and computational explorer. 
+<p>Welcome to my digital laboratory. I am an undergraduate Microbiology researcher at Dum Dum Motijheel College (WBSU) with a rather unorthodox double life. By day, I am a lover of Mathematics and Biology, dealing with pipettes, microscopes, and microbial populations. By night, I am a 100% self-taught systems architect and computational explorer.</p> 
 
-I didn't wait for a formal course to teach me how the internet works—I broke things, fixed them, and built them from scratch. If it involves a wet-lab protocol or a command-line interface, I am probably experimenting with it.
+<p>I didn't wait for a formal course to teach me how the internet works—I broke things, fixed them, and built them from scratch. If it involves a wet-lab protocol or a command-line interface, I am probably experimenting with it.</p>
 
----
+<hr>
 
-### 🔬 The Wet-Lab (What I Execute)
-Biology isn't just theory; it’s the ultimate legacy code. 
-* **Microbiology:** Microbial Culturing, Antimicrobial Resistance Assays, Spectrophotometry.
-* **Genetics:** DNA Propagation, R2 metrics, and understanding the elegant mathematics behind biological life.
+<h3>🔬 The Wet-Lab (What I Execute)</h3>
+<p>Biology isn't just theory; it’s the ultimate legacy code.</p>
+<ul>
+  <li><strong>Microbiology:</strong> Microbial Culturing, Antimicrobial Resistance Assays, Spectrophotometry.</li>
+  <li><strong>Genetics:</strong> DNA Propagation, R2 metrics, and understanding the elegant mathematics behind biological life.</li>
+</ul>
 
-### 🌐 The Server Room (Self-Taught Infrastructure)
-I believe in absolute **Data Sovereignty**. Why rent a digital house when you can build the entire city infrastructure?
-* **Hosting Mastery:** Navigating the entire spectrum—Shared, VPS, Cloud, and Dedicated hosting environments. 
-* **Control Panels:** Wrangling cPanel and Mpanel.
-* **Security & Routing:** Cloudflare WAF, IP Masking, custom Nameservers, and locking down cloud storage. 
+<h3>🌐 The Server Room (Self-Taught Infrastructure)</h3>
+<p>I believe in absolute <strong>Data Sovereignty</strong>. Why rent a digital house when you can build the entire city infrastructure?</p>
+<ul>
+  <li><strong>Hosting Mastery:</strong> Navigating the entire spectrum—Shared, VPS, Cloud, and Dedicated hosting environments.</li>
+  <li><strong>Control Panels:</strong> Wrangling cPanel and Mpanel.</li>
+  <li><strong>Security & Routing:</strong> Cloudflare WAF, IP Masking, custom Nameservers, and locking down cloud storage.</li>
+</ul>
 
-### 🏗️ The Web Canvas
-* **CMS & Design:** WordPress, Elementor, Blogger.
-* **Deployment:** Deploying and configuring raw PHP scripts (like AdLinkFly from CodeCanyon).
-* **Markup:** A touch of HTML to keep the front-end cooperating.
+<h3>🏗️ The Web Canvas</h3>
+<ul>
+  <li><strong>CMS & Design:</strong> WordPress, Elementor, Blogger.</li>
+  <li><strong>Deployment:</strong> Deploying and configuring raw PHP scripts (like AdLinkFly from CodeCanyon).</li>
+  <li><strong>Markup:</strong> A touch of HTML to keep the front-end cooperating.</li>
+</ul>
 
-### 💻 The Code Cauldron (Currently Learning & Forging)
-Bridging the gap between the petri dish and the terminal.
-* **C++:** Writing high-performance algorithms because standard loops are too slow for massive datasets.
-* **Python:** Exploring Data/ML to predict what my cultures will do before they do it.
-* **R:** Turning raw biological data into beautiful statistical visualizations.
-* **Bash:** Taming Linux server environments.
+<h3>💻 The Code Cauldron (Currently Learning & Forging)</h3>
+<p>Bridging the gap between the petri dish and the terminal.</p>
+<ul>
+  <li><strong>C++:</strong> Writing high-performance algorithms because standard loops are too slow for massive datasets.</li>
+  <li><strong>Python:</strong> Exploring Data/ML to predict what my cultures will do before they do it.</li>
+  <li><strong>R:</strong> Turning raw biological data into beautiful statistical visualizations.</li>
+  <li><strong>Bash:</strong> Taming Linux server environments.</li>
+</ul>
 
----
+<hr>
 
-### 💡 Why This Exists
-*“Why choose between being a Biologist or a Coder when you can just be a god of both?”*
+<h3>💡 Why This Exists</h3>
+<blockquote>
+  <p><em>“Why choose between being a Biologist or a Coder when you can just be a god of both?”</em></p>
+</blockquote>
 
-Everything you see here—every script, every deployment, every server architecture—was learned through raw curiosity and midnight documentation reading. No formal computer science degree required. 
+<p>Everything you see here—every script, every deployment, every server architecture—was learned through raw curiosity and midnight documentation reading. No formal computer science degree required.</p> 
 
-I am currently on a mission to build full-stack bioinformatics pipelines, integrate complex C++ models with physical lab protocols, and push the boundaries of what an undergraduate researcher can deploy. 
+<p>I am currently on a mission to build full-stack bioinformatics pipelines, integrate complex C++ models with physical lab protocols, and push the boundaries of what an undergraduate researcher can deploy.</p>
 
-*(Warning: May occasionally drop a database while trying to sequence a genome. Please stand back.)*
+<p align="center">
+  <small><i>(Warning: May occasionally drop a database while trying to sequence a genome. Please stand back.)</i></small>
+</p>
