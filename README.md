@@ -39,25 +39,24 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student at 
 
 ---
 > [!CAUTION]
-> **🚨 The Systemic Glitch: Dodging the Re-NEET Trap** <br>
-> *In '25 I chased the medical prize,* <br>
-> *Underneath the intense competitive skies.* <br>
-> *I took a hard drop, prepared for the test,* <br>
-> *Ready to out-work and out-study the rest.* <br>
+> **🚨 The NTA Plot Twist: Dodging the Re-NEET Trap** <br>
+> *In '25 I chased the stethoscope dream,* <br>
+> *But NEET and Board exams were a heavy regime.* <br>
+> *So I took a hard drop, locked myself in a room,* <br>
+> *Ready to study and conquer the gloom.* <br>
 > <br>
-> *But then '26 brought a systemic glitch,* <br>
-> *Cancelled exams and a timeline switch.* <br>
-> *Instead of complaining or waiting around,* <br>
-> *I engineered a pivot to much higher ground.* <br>
+> *But then the exam was completely derailed,* <br>
+> *The timeline collapsed and the schedules failed.* <br>
+> *They mixed up the dates like a chemical spill,* <br>
+> *And expected the students to swallow the pill.* <br>
 > <br>
-> *While millions were trapped in the Re-NEET suspense,* <br>
-> *I looked at the variables and chose common sense.* <br>
-> *Before the delays could control my new fate,* <br>
-> *I logged into WBCAP and wiped clean the slate.* <br>
+> *While rumors of "Re-NEET" were freezing the clock,* <br>
+> *I looked at the logic and bypassed the block.* <br>
+> *Before the confusion could dictate my fate,* <br>
+> *I logged into WBCAP and opened a gate!* <br>
 > <br>
-> *Let the traditional crowd have their endless debate,* <br>
-> *I’ve got servers to launch and new code to create!*
-
+> *You can keep the delays and the endless debate,* <br>
+> *I've got genomes to sequence and code to create!*
 ---
 
 ### 🔬 The Wet-Lab & Academic Core <sub>*(Where the Journey Begins)*</sub>
