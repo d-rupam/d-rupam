@@ -75,6 +75,8 @@ Biology isn't just theory; I view it as the ultimate legacy code. As an incoming
 * 🦁 **Zoology & Chemistry (Minors):** Building a deep understanding of animal physiology and the chemical reactions that govern life.
 * 💻 **Computer Science (The Multidisciplinary Heart):** My degree may say Biology, but my mind runs on computational logic. I am approaching my entire wet-lab curriculum strictly through a tech-driven lens, aiming to become the bridge between physical science and software architecture.
 
+---
+
 ### 🌐 The Server Room <sub>*(Self-Taught Infrastructure)*</sub>
 I believe in absolute **Data Sovereignty**. Why rent a digital house when you can build the entire city infrastructure?
 * 🌍 **Hosting Mastery:** Navigating the entire spectrum—Shared, VPS, Cloud, and Dedicated hosting environments.
