@@ -9,15 +9,33 @@
 > [!NOTE]
 > *Roses are red, violets are blue,* <br>
 > *I culture bacteria, and configure DNS too.* <br>
-> *I don't just memorize what the textbooks explain,* <br>
-> *I deploy the software that processes the strain.*
+> *The wet-lab is waiting, the logic is new,* <br>
+> *I'm learning to write the scripts bridging the two.*
 
 <br>
 
 Welcome to my digital laboratory. I am an undergraduate Microbiology researcher at **Dum Dum Motijheel College (WBSU)** with a rather unorthodox dual-focus. In the physical lab, I am a lover of mathematics and biology, dealing with pipettes, microscopes, and microbial populations. In the digital realm, I am a 100% self-taught systems architect and computational explorer.
 
-### 📈 The Resilience Engine (Origin Story)
-I don't just optimize code; I know how to engineer a comeback. In 11th grade at **KV Dum Dum**, I hit a wall, scoring an **8/35** in my first Chemistry periodic test and finishing the year at **66%**. Instead of backing down, I completely reverse-engineered my learning protocols. By the end of 12th grade CBSE (PCMB), I scored an **81/100** in Chemistry and graduated with an overall **85%**. That same relentless drive to analyze failures and rebuild systems is exactly how I approach complex software and computational biology today.
+---
+
+> [!IMPORTANT]
+> **📈 The Resilience Engine: The KV Dum Dum Comeback** <br>
+> *I don't just optimize code; I know how to engineer a comeback. When systems fail, I reverse-engineer the protocols.* <br>
+>
+> *From an 8/35 in eleventh-grade Chem,* <br>
+> *I rebuilt my logic from the root to the stem.* <br>
+> *I finished at 66%, then rewrote the whole node,* <br>
+> *To graduate with 85% on the CBSE PCMB road.* <br>
+> <br>
+> *Biology hit 90 (30/30 lab, absolute breeze),* <br>
+> *English at 94, handled with ease.* <br>
+> *Chem hit 81, Physics 77 (practicals maxed out without a doubt),* <br>
+> *Proving the academic comeback was completely mapped out.* <br>
+> <br>
+> *But Maths... I took extra sheets for a 90+ dream,* <br>
+> *Only to learn CBSE examiners don't work as a team.* <br>
+> *I scored an 83—guess step-marking is a myth?* <br>
+> *But it taught me the ruthless logic I now code with!*
 
 ---
 
@@ -50,6 +68,14 @@ Bridging the gap between the petri dish and the terminal.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-* **C++:** Writing high-performance algorithms because standard loops are too slow for massive datasets.
+* **C++:** Writing algorithms because standard loops are too slow for massive biological datasets.
 * **Python:** Exploring Data/ML to predict what my cultures will do before they do it.
-* **R:**
+* **R:** Turning raw biological data into beautiful statistical visualizations.
+* **Bash:** Taming Linux server environments.
+
+---
+
+> [!WARNING]
+> **Biohazard & Server Warning** <br>
+> *Everything you see here is being learned through raw curiosity and relentless documentation reading. No formal computer science degree required. I am currently on a mission to build full-stack bioinformatics pipelines, integrate C++ models with physical lab protocols, and push the boundaries of what an undergraduate researcher can deploy.* <br><br>
+> *(May occasionally drop a database while trying to sequence a genome. Please stand back.)*
