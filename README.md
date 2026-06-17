@@ -89,6 +89,27 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 ---
 
+### 📡 Inbound Communications Protocol
+
+> *The visual logs are hosted on stream,* <br>
+> *The sovereign chat is built for the team.* <br>
+> *For enterprise nodes or a formal request,* <br>
+> *Route to the inbox and bypass the rest.*
+
+<p align="left">
+  <a href="https://youtube.com/@RupamInSilico" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Visual_Logbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <img src="https://img.shields.io/badge/Arattai-Community_Terminal-38B249?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai" />
+  <img src="https://img.shields.io/badge/Zoho_Mail-Enterprise_Routing-E1242A?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
+</p>
+
+* ✉️ **Enterprise & Academic:** `rupame@zohomail.in` *(Official routing for recruiters, university faculty, and B2B connections).*
+* 💬 **Open-Source Community:** `@rupaminsilico` on **Arattai** *(Peer-to-peer debugging, WBSU notes, and grassroot discussions).*
+* 📺 **The Wet-Lab Feed:** **[@RupamInSilico](https://youtube.com/@RupamInSilico)** on YouTube *(Raw benchwork footage and architectural proof-of-work).*
+
+---
+
 > [!WARNING]
 > **Biohazard & Server Warning** <br>
 > *Everything you will see here is fueled by raw curiosity, relentless documentation reading, and the incredible patience of the professors who help translate my chaotic ideas into structured logic. I am currently on a mission to build full-stack bioinformatics pipelines, integrate computational models with physical lab protocols, and push the boundaries of what a undergraduate student can build.* <br><br>
