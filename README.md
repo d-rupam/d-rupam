@@ -14,7 +14,7 @@
 
 <br>
 
-Welcome to my digital laboratory. I am an undergraduate Microbiology student at **Dum Dum Motijheel College (WBSU)** with a rather unorthodox dual-focus. In the physical lab, I am a lover of mathematics and biology, dealing with pipettes, microscopes, and microbial populations. In the digital realm, I am a 100% self-taught systems architect and computational explorer.
+
 
 ---
 
