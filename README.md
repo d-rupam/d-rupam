@@ -118,11 +118,11 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=d-rupam&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=d-rupam&theme=radical&hide_border=true)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-rupam&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-rupam&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-rupam&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-rupam&theme=radical&hide_border=true)
 
 ---
 > [!WARNING]
