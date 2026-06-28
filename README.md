@@ -118,6 +118,11 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 ---
 
+![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-rupam&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true)
+
+---
 > [!WARNING]
 > **Biohazard & Server Warning** <br>
 > *Everything you will see here is fueled by raw curiosity, relentless documentation reading, and the incredible patience of the professors who help translate my chaotic ideas into structured logic. I am currently on a mission to build full-stack bioinformatics pipelines, integrate computational models with physical lab protocols, and push the boundaries of what a undergraduate student can build.* <br><br>
