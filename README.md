@@ -121,7 +121,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true" />
    <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=d-rupam&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d-rupam&show_icons=true&theme=radical&hide_border=true?v=1" />
    <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-rupam&theme=radical&hide_border=true" />
 </p>
