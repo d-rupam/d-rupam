@@ -125,6 +125,9 @@ Bridging the gap between the petri dish and the terminal, I focus on:
    <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-rupam&theme=radical&hide_border=true" />
 </p>
+
+---
+
 ### 🐍 Contributions:
 <p align="center">
   <picture>
