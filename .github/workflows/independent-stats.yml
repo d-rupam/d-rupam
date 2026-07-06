@@ -1,0 +1,77 @@
+name: Generate Independent Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js (For Main Stats & Langs)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Setup PHP (For Streak Stats)
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Generate Stats & Languages SVGs (Node.js)
+        env:
+          # Uses GitHub's built-in token so it doesn't get rate-limited
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p SVGs
+          
+          # Clone the official stats repo
+          git clone https://github.com/anuraghazra/github-readme-stats.git
+          cd github-readme-stats
+          npm install
+          
+          # Start the server locally in the background
+          PORT=9000 npm start &
+          sleep 10 # Wait for server to boot up
+          
+          # Fetch SVGs from our LOCAL server instead of Vercel
+          curl -o ../SVGs/stats.svg "http://localhost:9000/api?username=d-rupam&theme=radical&hide_border=true&show_icons=true"
+          curl -o ../SVGs/top-langs.svg "http://localhost:9000/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true"
+          
+          # Kill the background node process
+          kill %1
+          cd ..
+
+      - name: Generate Streak SVG (PHP)
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Clone the streak stats repo
+          git clone https://github.com/DenverCoder1/github-readme-streak-stats.git
+          cd github-readme-streak-stats
+          composer install
+          
+          # Start PHP server locally in the background
+          php -S localhost:8000 &
+          sleep 5
+          
+          # Fetch SVG from our LOCAL server instead of Heroku
+          curl -o ../SVGs/streak.svg "http://localhost:8000/?user=d-rupam&theme=radical&hide_border=true"
+          
+          # Kill the background PHP process
+          kill %1
+          cd ..
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add SVGs/
+          git commit -m "Generated independent stats locally" || echo "No changes to commit"
+          git push
