@@ -2,11 +2,11 @@ name: Generate Independent Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-stats:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,55 +14,71 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js (For Main Stats & Langs)
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # Fixed deprecation warning
+          node-version: '20'
 
-      - name: Setup PHP (For Streak Stats)
+      - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.2'
 
-      - name: Generate Stats & Languages SVGs (Node.js)
+      - name: Build Main Stats & Langs (Node.js)
         env:
           PAT_1: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p SVGs
           
-          # Clone and install dependencies
+          echo "Cloning stats repo..."
           git clone https://github.com/anuraghazra/github-readme-stats.git
           cd github-readme-stats
-          npm ci
           
-          # Start server explicitly on IPv4 loopback
-          HOST=127.0.0.1 PORT=9000 npm start > server.log 2>&1 &
+          echo "Forcing Node dependencies to install safely..."
+          npm install --legacy-peer-deps --no-audit --no-fund
           
-          # Wait patiently and curl IPv4 explicitly
-          curl -4 --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/stats.svg "http://127.0.0.1:9000/api?username=d-rupam&theme=radical&hide_border=true&show_icons=true" || { echo "Node Server failed. Logs:"; cat server.log; exit 1; }
-          curl -4 --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/top-langs.svg "http://127.0.0.1:9000/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true" || { echo "Node Server failed. Logs:"; cat server.log; exit 1; }
+          echo "Starting local Node server..."
+          nohup node express.js > server.log 2>&1 &
+          sleep 8
           
-          # Kill the background process
-          kill %1
+          echo "Fetching Main Stats..."
+          if ! curl --fail --retry 5 --retry-delay 2 -o ../SVGs/stats.svg "http://localhost:9000/api?username=d-rupam&theme=radical&hide_border=true&show_icons=true"; then
+            echo "NODE SERVER FAILED! Logs:"
+            cat server.log
+            exit 1
+          fi
+          
+          echo "Fetching Langs Stats..."
+          if ! curl --fail --retry 5 --retry-delay 2 -o ../SVGs/top-langs.svg "http://localhost:9000/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true"; then
+            echo "NODE SERVER FAILED! Logs:"
+            cat server.log
+            exit 1
+          fi
+          
           cd ..
 
-      - name: Generate Streak SVG (PHP)
+      - name: Build Streak Stats (PHP)
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Clone and install dependencies
+          echo "Cloning streak repo..."
           git clone https://github.com/DenverCoder1/github-readme-streak-stats.git
           cd github-readme-streak-stats
-          composer install
           
-          # Start PHP server explicitly on IPv4 loopback
-          php -S 127.0.0.1:8000 > php.log 2>&1 &
+          echo "Forcing PHP dependencies to install safely..."
+          composer install --no-dev --ignore-platform-reqs
           
-          # Wait patiently and curl IPv4 explicitly
-          curl -4 --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/streak.svg "http://127.0.0.1:8000/?user=d-rupam&theme=radical&hide_border=true" || { echo "PHP Server failed. Logs:"; cat php.log; exit 1; }
+          echo "Starting local PHP server..."
+          nohup php -S localhost:8000 > php.log 2>&1 &
+          sleep 5
           
-          # Kill the background process
-          kill %1
+          echo "Fetching Streak Stats..."
+          if ! curl --fail --retry 5 --retry-delay 2 -o ../SVGs/streak.svg "http://localhost:8000/?user=d-rupam&theme=radical&hide_border=true"; then
+            echo "PHP SERVER FAILED! Logs:"
+            cat php.log
+            exit 1
+          fi
+          
           cd ..
 
       - name: Commit and Push
