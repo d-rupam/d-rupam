@@ -17,7 +17,7 @@ jobs:
       - name: Setup Node.js (For Main Stats & Langs)
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # Updated to remove GitHub's deprecation warning
+          node-version: '24' # Fixed deprecation warning
 
       - name: Setup PHP (For Streak Stats)
         uses: shivammathur/setup-php@v2
@@ -33,14 +33,14 @@ jobs:
           # Clone and install dependencies
           git clone https://github.com/anuraghazra/github-readme-stats.git
           cd github-readme-stats
-          npm install
+          npm ci
           
-          # Start server in background and save logs
-          PORT=9000 npm start > server.log 2>&1 &
+          # Start server explicitly on IPv4 loopback
+          HOST=127.0.0.1 PORT=9000 npm start > server.log 2>&1 &
           
-          # Wait patiently for the server to start using retries
-          curl --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/stats.svg "http://localhost:9000/api?username=d-rupam&theme=radical&hide_border=true&show_icons=true" || { echo "Server failed. Logs:"; cat server.log; exit 1; }
-          curl --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/top-langs.svg "http://localhost:9000/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true" || { echo "Server failed. Logs:"; cat server.log; exit 1; }
+          # Wait patiently and curl IPv4 explicitly
+          curl -4 --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/stats.svg "http://127.0.0.1:9000/api?username=d-rupam&theme=radical&hide_border=true&show_icons=true" || { echo "Node Server failed. Logs:"; cat server.log; exit 1; }
+          curl -4 --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/top-langs.svg "http://127.0.0.1:9000/api/top-langs/?username=d-rupam&layout=compact&theme=radical&hide_border=true" || { echo "Node Server failed. Logs:"; cat server.log; exit 1; }
           
           # Kill the background process
           kill %1
@@ -55,11 +55,11 @@ jobs:
           cd github-readme-streak-stats
           composer install
           
-          # Start PHP server in background and save logs
-          php -S localhost:8000 > php.log 2>&1 &
+          # Start PHP server explicitly on IPv4 loopback
+          php -S 127.0.0.1:8000 > php.log 2>&1 &
           
-          # Wait patiently for the server to start using retries
-          curl --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/streak.svg "http://localhost:8000/?user=d-rupam&theme=radical&hide_border=true" || { echo "PHP Server failed. Logs:"; cat php.log; exit 1; }
+          # Wait patiently and curl IPv4 explicitly
+          curl -4 --fail --retry 15 --retry-connrefused --retry-delay 2 -o ../SVGs/streak.svg "http://127.0.0.1:8000/?user=d-rupam&theme=radical&hide_border=true" || { echo "PHP Server failed. Logs:"; cat php.log; exit 1; }
           
           # Kill the background process
           kill %1
