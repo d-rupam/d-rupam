@@ -124,6 +124,16 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 ---
 
+### 📡 External Network Verification
+
+> [!NOTE]
+> **Institution:** Royal Statistical Society (London, UK)  
+> **Tier:** e-Student Member *(Computational Statistics & Machine Learning Section)*  
+> **Node ID:** `263860`  
+> **Focus:** Leveraging statistical computing models to parse massive biological datasets and bridge wet-lab protocols with cloud infrastructure.
+
+---
+
 ### 🐍 Contributions:
 <p align="center">
   <picture>
