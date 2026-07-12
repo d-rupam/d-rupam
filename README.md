@@ -89,7 +89,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 ---
 
-### 📡 External Network Verification
+### 📡 Professional Infrastructure & Society Memberships
 
 > [!NOTE]
 > **Institution:** Royal Statistical Society (London, UK)  
