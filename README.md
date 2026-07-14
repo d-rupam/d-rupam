@@ -118,7 +118,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
   <a href="https://aratt.ai/user/@rupame" target="_blank">
     <img src="https://img.shields.io/badge/Arattai-Terminal_(1:1)-FFB900?style=for-the-badge&logo=chatbot&logoColor=black" alt="Arattai Terminal" />
   </a>
-  <a href="mailto:rupame@zohomail.in">
+  <a href="mailto:namaste@rupamdas.in">
     <img src="https://img.shields.io/badge/Zoho_Mail-Enterprise_Routing-1E62DC?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
   </a>
 </p>
