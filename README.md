@@ -152,3 +152,4 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 > **Biohazard & Server Warning** <br>
 > *Everything you will see here is fueled by raw curiosity, relentless documentation reading, and the incredible patience of the professors who help translate my chaotic ideas into structured logic. I am currently on a mission to build full-stack bioinformatics pipelines, integrate computational models with physical lab protocols, and push the boundaries of what a undergraduate student can build.* <br><br>
 > *(May occasionally drop a database while trying to sequence a genome. Please stand back.)*
+
