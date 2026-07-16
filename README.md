@@ -108,7 +108,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 > *For enterprise nodes or a formal request,* <br>
 > *Route to the inbox and bypass the rest.*
 
-<p align="left">
+<p align="center">
   <a href="https://youtube.com/@RupamInSilico" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Visual_Logbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
