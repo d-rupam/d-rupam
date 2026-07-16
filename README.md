@@ -115,9 +115,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
   <a href="https://aratt.ai/@rupaminsilico" target="_blank">
     <img src="https://img.shields.io/badge/Arattai-Bioreactor-00A884?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai Bioreactor" />
   </a>
-  <a href="mailto:namaste@rupamdas.in">
-    <img src="https://img.shields.io/badge/Zoho_Mail-Enterprise_Routing-1E62DC?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
-  </a>
+
 </p>
 
 * ✉️ **Enterprise & Academic:** **[namaste@rupamdas.in](mailto:namaste@rupamdas.in)** *(Official routing for recruiters, university faculty, and B2B connections).*
