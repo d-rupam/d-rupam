@@ -113,7 +113,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
   <a href="https://aratt.ai/@rupaminsilico" target="_blank">
     <img src="https://img.shields.io/badge/Arattai-Bioreactor-d9e010?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai Bioreactor" />
   </a>
-  
+ <br>
   <a href="https://youtube.com/@RupamInSilico" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Visual_Logbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
