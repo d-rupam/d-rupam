@@ -125,7 +125,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 </p>
 
-* ✉️ **Enterprise & Academic:** **[namaste@rupamdas.in](mailto:namaste@rupamdas.in)** *(Official routing for recruiters, university faculty, and B2B connections).*
+* ✉️ **Enterprise & Academic:** **[namaste@rupamdas.in](mailto:namaste@rupamdas.in)** *(Official routing for recruiters, faculty, developers, and community).*
 * 💬 **Arattai Bioreactor:** **[@rupaminsilico](https://aratt.ai/@rupaminsilico)** *(The Community Flask: Peer-to-peer debugging, WBSU notes, and grassroots Tech-Bio discussions).*
 * 📺 **The Wet-Lab Feed:** **[@RupamInSilico](https://youtube.com/@RupamInSilico)** on **YouTube** *(Raw benchwork footage and architectural proof-of-work).*
 
