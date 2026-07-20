@@ -112,22 +112,26 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 > *For enterprise nodes or a formal request,* <br>
 > *Route to the inbox and bypass the rest.*
 
-<p align="center">
+        <p align="center">
+            
+            <a href="https://aratt.ai/@rupaminsilico" target="_blank">
+                <img src="https://img.shields.io/badge/Arattai-Bioreactor-00A884?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai Bioreactor" />
+            </a>
+            
+            <a href="mailto:namaste@rupamdas.in">
+                <img src="https://img.shields.io/badge/Email-Connect_With_ME-1E62DC?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Mail" />
+            </a>
+            <a href="https://youtube.com/@RupamInSilico" target="_blank">
+                <img src="https://img.shields.io/badge/YouTube-Visual_Logbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+            </a>
+        </p>
 
-  <a href="https://aratt.ai/@rupaminsilico" target="_blank">
-    <img src="https://img.shields.io/badge/Arattai-Bioreactor-d9e010?style=for-the-badge&logo=googlechat&logoColor=white" alt="Arattai Bioreactor" />
-  </a>
- 
-  <a href="https://youtube.com/@RupamInSilico" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Visual_Logbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
-
-</p>
-
-* ✉️ **Enterprise & Academic:** **[namaste@rupamdas.in](mailto:namaste@rupamdas.in)** *(Official routing for recruiters, university faculty, and B2B connections).*
-* 💬 **Arattai Bioreactor:** **[@rupaminsilico](https://aratt.ai/@rupaminsilico)** *(The Community Flask: Peer-to-peer debugging, WBSU notes, and grassroots Tech-Bio discussions).*
-* 📺 **The Wet-Lab Feed:** **[@RupamInSilico](https://youtube.com/@RupamInSilico)** on **YouTube** *(Raw benchwork footage and architectural proof-of-work).*
+        <ul style="list-style: none; padding: 0;">
+            <li>✉️ <strong>Connect with ME:</strong> <a href="mailto:namaste@rupamdas.in" style="color: var(--primary);">namaste@rupamdas.in</a> <em>(Official routing for recruiters, faculty, developers, and community)</em>.</li>
+            <li>💬 <strong>Arattai Bioreactor Channel:</strong> <a href="https://aratt.ai/@rupaminsilico" style="color: var(--primary);">@rupaminsilico</a> <em>(The Community Flask: Peer-to-peer debugging, WBSU notes, and Tech-Bio discussions)</em>.</li>
+            <li>📺 <strong>The Wet-Lab Feed:</strong> <a href="https://youtube.com/@RupamInSilico" style="color: var(--primary);">@RupamInSilico</a> on <strong>YouTube</strong> <em>(Raw benchwork footage and architectural proof-of-work)</em>.</li>
+        </ul>
+    </div>
 
 ---
 
