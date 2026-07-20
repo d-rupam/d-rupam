@@ -99,8 +99,12 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 >     *   **Node ID:** `263860`
 >     *   **Focus:** Bridging statistical computing with biological data architectures.
 >
+> *   **American Society for Microbiology (Washington, DC, USA)**
+>     *   **Tier:** Global Outreach - Student Member
+>     *   **Node ID:** `200561300`
+>     *   **Focus:** Computational microbiology, predictive modeling, and microbial genomics.
+>
 > ---
----
 ### 📡 Inbound Communications Protocol
 
 > *The visual logs are hosted on stream,* <br>
