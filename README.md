@@ -133,7 +133,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-rupam&theme=radical&hide_border=true?v=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-rupam&theme=radical&hide_border=true?v=2" />
 </p>
 
 ---
