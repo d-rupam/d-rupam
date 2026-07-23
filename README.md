@@ -113,17 +113,17 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 > [!NOTE]
 > **Active Achievement Nodes**
 > 
-> **Ministry of Defence & MyGov (Government of India)**
-> * **Tier:** Top 250 National Winner (Rank 203)
-> * **Credential ID:** VIP e-Invitation Pass (IDC-2024, Red Fort)
-> * **Focus:** Demonstrated domain expertise in Atmanirbhar Bharat, Defence Production, and national strategic systems.
+> *   **Ministry of Defence & MyGov (Government of India)**
+>     *   **Tier:** Top 250 National Winner (Rank 203)
+>     *   **Credential ID:** `VIP e-Invitation Pass (IDC-2024, Red Fort)`
+>     *   **Focus:** Demonstrated domain expertise in Atmanirbhar Bharat, Defence Production, and national strategic systems.
 > 
-> **Science Olympiad Foundation (Global)**
-> * **Tier:** International Rank 65
-> * **Credential ID:** International Mathematics Olympiad (IMO)
-> * **Focus:** Advanced mathematical logic, algorithmic problem-solving, and computational foundation.
-
----
+> *   **Science Olympiad Foundation (Global)**
+>     *   **Tier:** International Rank 65
+>     *   **Credential ID:** `International Mathematics Olympiad (IMO)`
+>     *   **Focus:** Advanced mathematical logic, algorithmic problem-solving, and computational foundation.
+> 
+> ---
 
 
 ### 📡 Inbound Communications Protocol
