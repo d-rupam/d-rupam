@@ -110,7 +110,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 
 ### 🏆 Verified Credentials & National Honors
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Active Achievement Nodes**
 > 
 > **Ministry of Defence & MyGov (Government of India)**
