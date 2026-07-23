@@ -115,12 +115,12 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 > 
 > *   **Ministry of Defence & MyGov (Government of India)**
 >     *   **Tier:** Top 250 National Winner (Rank 203)
->     *   **Credential ID:** `VIP e-Invitation Pass (IDC-2024, Red Fort)`
+>     *   **Validation:** `Official MoD Shortlist Publication`
 >     *   **Focus:** Demonstrated domain expertise in Atmanirbhar Bharat, Defence Production, and national strategic systems.
 > 
 > *   **Science Olympiad Foundation (Global)**
 >     *   **Tier:** International Rank 65
->     *   **Credential ID:** `International Mathematics Olympiad (IMO)`
+>     *   **Validation:** `Official SOF Certification`
 >     *   **Focus:** Advanced mathematical logic, algorithmic problem-solving, and computational foundation.
 > 
 > ---
