@@ -119,7 +119,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 >     *   **Focus:** Demonstrated domain expertise in Atmanirbhar Bharat, Defence Production, and national strategic systems.
 > 
 > *   **Science Olympiad Foundation (Global)**
->     *   **Tier:** International Rank 65 IMO
+>     *   **Tier:** International Rank 65 International Mathematical Olympiad (IMO)
 >     *   **Validation:** `Official IMO SOF Certification`
 >     *   **Focus:** Advanced mathematical logic, algorithmic problem-solving, and computational foundation.
 > 
