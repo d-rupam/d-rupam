@@ -104,8 +104,12 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 >     *   **Node ID:** `200561300`
 >     *   **Focus:** Computational microbiology, predictive modeling, and microbial genomics.
 >
+> *   **British Society for Antimicrobial Chemotherapy (Birmingham, UK)**[cite: 2]
+>     *   **Tier:** Member
+>     *   **Node ID:** `111163`
+>     *   **Focus:** Antimicrobial chemotherapy, resistance tracking, and integrating clinical microbiology data with computational pipelines.
+>
 > ---
-
 ---
 
 ### 🏆 Verified Credentials & National Honors
