@@ -109,7 +109,11 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 >     *   **Node ID:** `111163`
 >     *   **Focus:** Antimicrobial chemotherapy, resistance tracking, and integrating clinical microbiology data with computational pipelines.
 >
-> ---
+> *   **British Society for Immunology (London, UK)**
+>     *   **Tier:** Member
+>     *   **Node ID:** `115618`
+>     *   **Focus:** Host-pathogen interactions, computational immunology, and integrating clinical immunology resources with statistical models.
+
 ---
 
 ### 🏆 Verified Credentials & National Honors
