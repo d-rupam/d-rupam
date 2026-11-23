@@ -34,7 +34,7 @@ Welcome to my digital laboratory. I am an undergraduate Microbiology student at 
 > <br>
 > *But Maths... I took extra sheets for a 90+ dream,* <br>
 > *Only to learn CBSE examiners don't work as a team.* <br>
-> *I scored an 83—guess step-marking is a myth?* <br>
+> *I scored an 83.... guess step-marking is a myth?* <br>
 > *But it taught me the ruthless logic I now code with!*
 
 ---
@@ -117,7 +117,7 @@ Bridging the gap between the petri dish and the terminal, I focus on:
 > **Active Achievement Nodes**
 > 
 > *   **Central Reserve Police Force (CRPF) & MyGov (Government of India)**
->     *   **Tier:** National 4th Prize Winner — CRPF@88 Short Video Contest
+>     *   **Tier:** National 4th Prize Winner  -  CRPF@88 Short Video Contest
 >     *   **Validation:** `Official Felicitation by DIG Shri Nadeem Ahmad Samdani (GC Durgapur) & Direct Cash Award`
 >     *   **Focus:** Advanced video editing, visual storytelling, and high-impact digital communication highlighting humanitarian efforts ("CRPF: Beyond the Uniform").
 > 
